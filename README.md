@@ -1,2 +1,2 @@
-# Chatbot-Development-with-TensorFlow-Python-and-Deep-Learning
-Developed a chatbot using TensorFlow, Python, and deep learning, integrating SQL for data management, and enhancing my skills in AI and NLP.
+# ChatBot
+ It is chatbot for solving students querying regarding University. It is made in python using pytourch and tkinter.
